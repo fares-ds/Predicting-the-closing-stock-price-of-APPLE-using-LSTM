@@ -1,6 +1,7 @@
 # Data Project - Stock Market Analysis
 
 ➼ In this project we will be looking at data from the stock market, particularly some technology stocks. We will learn how to use pandas to get stock information, visualize different aspects of it, and finally we will look at a few ways of analyzing the risk of a stock, based on its previous performance history. 
+
 ➼ We will also be predicting closing stock prices of apple through a LSTM (Long Short-Term Memory) method.
 
 We'll be answering the following questions along the way:
